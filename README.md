@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <img src="static/skills.svg" title="Skills" alt="Skills" width="40" height="40"/>&nbsp;
+  <img src="Static/Skills.svg" title="Skills" alt="Skills"/>&nbsp;
 </div>
