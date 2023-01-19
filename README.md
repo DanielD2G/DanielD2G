@@ -20,9 +20,9 @@ I am a Python Developer 😎 living in Argentina.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on LeetCode, develop my freelance career and read some books.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-gonzalez-2b621a1b2)
 ## Skills 💪
 <div>
   <img src="Static/Skills.svg" title="Skills" alt="Skills"/>&nbsp;
