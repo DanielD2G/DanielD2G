@@ -15,7 +15,7 @@
 
 ---
 # :man_technologist: About Me
-I am a Python Developer 😎 living in Argentina.
+I am a Backend Developer 😎 living in Argentina.
 - :telescope: I’m working as a Python Developer <img src="https://media0.giphy.com/media/UtEd87cLAH789bR5sk/giphy.gif" width="30"> , building and deploying REST APIs, scraping spiders and working with tons of data 😨
 
 - :seedling: Reading and learning, currently; Clean Code in Python 🧐
