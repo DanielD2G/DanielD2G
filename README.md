@@ -20,7 +20,7 @@ I am a Python Developer 😎 living in Argentina.
 
 - :seedling: Reading and learning, currently; Clean Code in Python 🧐
 
-- :zap: In my free time, I solve some problems in leetcode, develop personal projects or for my freelance career, watch a bit of formula 1, practice guitar and play some games 😎
+- :zap: In my free time, I solve some problems in leetcode, develop personal projects or work in my freelance career, watch a bit of formula 1, practice guitar and play some games 😎
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-DanielDG-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-gonzalez-2b621a1b2)
 ## Skills 💪
