@@ -27,3 +27,6 @@ I am a Python Developer 😎 living in Argentina.
 <div>
   <img src="Static/Skills.svg" title="Skills" alt="Skills" width="970"/>&nbsp;
 </div>
+<div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DazzioD2G&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div>
