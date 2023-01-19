@@ -13,7 +13,7 @@
 </div>
 
 
-
+---
 # :man_technologist: About Me
 ## Skills 💪
 <div>
