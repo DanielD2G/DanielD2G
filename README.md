@@ -18,9 +18,9 @@
 I am a Python Developer 😎 living in Argentina.
 - :telescope: I’m working as a Python Developer <img src="https://media0.giphy.com/media/UtEd87cLAH789bR5sk/giphy.gif" width="30"> , building and deploying REST APIs, scraping spiders and working with tons of data 😨
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Reading and learning, currently; Clean Code in Python 🧐
 
-- :zap: In my free time, I solve problems on LeetCode, develop my freelance career and read some books.
+- :zap: In my free time, I solve some problems in leetcode, develop personal projects or for my freelance career, watch a bit of formula 1, practice guitar and play some games 😎
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-DanielDG-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-gonzalez-2b621a1b2)
 ## Skills 💪
