@@ -14,8 +14,8 @@
 
 
 
-
-# Skills 💪
+# About Me
+### Skills 💪
 <div>
   <img src="Static/Skills.svg" title="Skills" alt="Skills"/>&nbsp;
 </div>
