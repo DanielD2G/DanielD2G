@@ -28,4 +28,6 @@ I am a Python Developer 😎 living in Argentina.
   <img src="Static/Skills.svg" title="Skills" alt="Skills" width="970"/>&nbsp;
 </div>
 <div>
+    
+### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DanielD2G&theme=nord)](https://git.io/streak-stats)
