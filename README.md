@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
+  <img src="static/skills.svg" title="Skills" alt="Skills" width="40" height="40"/>&nbsp;
+</div>
