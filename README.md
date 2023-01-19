@@ -15,7 +15,14 @@
 
 ---
 # :man_technologist: About Me
-I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> living in Argentina.
+I am a Python Developer 😎 living in Argentina.
+- :telescope: I’m working as a Python Developer <img src="https://media0.giphy.com/media/UtEd87cLAH789bR5sk/giphy.gif" width="30"> , building and deploying REST APIs, scraping spiders and working with tons of data 😨
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 ## Skills 💪
 <div>
   <img src="Static/Skills.svg" title="Skills" alt="Skills"/>&nbsp;
