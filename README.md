@@ -15,10 +15,10 @@
 
 ---
 # :man_technologist: About Me
-I am a Backend Developer 😎 living in Argentina.
-- :telescope: I’m working as a Python Developer <img src="https://media0.giphy.com/media/UtEd87cLAH789bR5sk/giphy.gif" width="30"> , building and deploying REST APIs, scraping spiders and working with tons of data 😨
+I am a Developer 😎 living in Argentina.
+- :telescope: I’m currently working as a Python Dev <img src="https://media0.giphy.com/media/UtEd87cLAH789bR5sk/giphy.gif" width="30"> , building and deploying REST APIs, scraping spiders and working with tons of data 😨
 
-- :seedling: Reading and learning, currently; Clean Code in Python 🧐
+- :seedling: Reading and learning 🧐
 
 - :zap: In my free time, I solve some problems in leetcode, develop personal projects or work in my freelance career, watch a bit of formula 1, practice guitar and play some games 😎
 
