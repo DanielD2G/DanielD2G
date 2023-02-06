@@ -30,6 +30,5 @@ I am a Developer 😎 living in Argentina.
 
     
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DanielD2G&theme=dark)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielD2G&show_icons=true&theme=transparent)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DanielD2G&theme=tokyonight_duo)](https://git.io/streak-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielD2G&show_icons=true&theme=transparent)
 
