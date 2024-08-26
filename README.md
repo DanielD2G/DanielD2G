@@ -5,7 +5,7 @@
 </h1>
   <img src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="300"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/dan">
+  <a href="https://www.linkedin.com/in/daniel-gonzalez-5b5426310/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -22,7 +22,7 @@ I am a Developer 😎 living in Argentina.
 
 - :zap: In my free time, I solve some problems in leetcode, develop personal projects or work in my freelance career, watch a bit of formula 1, practice guitar and play some games 😎
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-DanielDG-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-gonzalez-2b621a1b2)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-DanielDG-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-gonzalez-5b5426310/)
 ## Skills 💪
 <div>
   <img src="Static/Skills.svg" title="Skills" alt="Skills" width="970"/>&nbsp;
