@@ -1,32 +1,41 @@
-<div id="header" align="center">
-    <h1>
-  Hellooooooo!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-  <img src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="300"/>
-  <div id="badges">
-</div>
-  <img src="https://komarev.com/ghpvc/?username=DazzioD2G&style=flat-square&color=blue" alt=""/>
-</div>
+# Hi, I'm Daniel 👋
 
+📍 **Argentina** | 💻 **Software Developer & DevOps**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
+
+> Building developer tools and automations powered by AI — from CI dashboards to CLI utilities. Pushing the limits with Claude Code and exploring ML applied to racing and motorsport data.
+
+🛒 **[pcbuddy.shop](https://pcbuddy.shop)** — PC component price comparison platform for Argentina with AI-powered search.
+
+## Projects
+
+- 📡 **[ActionsHub](https://github.com/DanielD2G/ActionsHub)** — Real-time dashboard for monitoring GitHub Actions workflows. Built with TypeScript, Astro, Preact, and Tailwind CSS. ([actions-hub.dev](https://actions-hub.dev))
+- ⌨️ **[BuddyTypeCLI](https://github.com/DanielD2G/BuddyTypeCLI)** — Typing speed test in the terminal, inspired by MonkeyType. Built with Rust.
+- 📦 **[NboxCLI](https://github.com/DanielD2G/NboxCLI)** — Command-line interface for interacting with Nbox. Built with Python.
+- 🌿 **[CeleryHub](https://github.com/DanielD2G/CeleryHub)** — Real-time monitoring, control, and scheduling for Celery clusters. Built with TypeScript, Python, and Docker.
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/DanielD2G)
+
+## What I'm Doing
+
+- **Building developer tools** — Dashboards and CLIs that make workflows more visible and efficient
+- **DevOps & automation** — CI/CD pipelines, containerization, and infrastructure as code
+- **AI-driven development** — Leveraging AI tools like Claude Code to build faster and smarter
+- **ML & motorsport** — Exploring machine learning applied to racing and motorsport data
+
+## Connect
+
+[![GitHub](https://img.shields.io/badge/-DanielD2G-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DanielD2G)
 
 ---
-# :man_technologist: About Me
-I am a Developer 😎 living in Argentina.
-- :telescope: I’m currently working as a Python Dev <img src="https://media0.giphy.com/media/UtEd87cLAH789bR5sk/giphy.gif" width="30"> , building and deploying REST APIs, scraping spiders and working with tons of data 😨
-
-- :seedling: Reading and learning 🧐
-
-- :zap: In my free time, I solve some problems in leetcode, develop personal projects or work in my freelance career, watch a bit of formula 1, practice guitar and play some games 😎
-
-## Skills 💪
-<div>
-  <img src="Static/Skills.svg" title="Skills" alt="Skills" width="970"/>&nbsp;
-</div>
-
-    
-### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=DanielD2G&theme=tokyonight&border_radius=4.3)](https://git.io/streak-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielD2G&show_icons=true&theme=tokyonight)
-
