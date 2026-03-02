@@ -4,6 +4,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -22,6 +23,7 @@
 - ⌨️ **[BuddyTypeCLI](https://github.com/DanielD2G/BuddyTypeCLI)** — Typing speed test in the terminal, inspired by MonkeyType. Built with Rust.
 - 📦 **[NboxCLI](https://github.com/DanielD2G/NboxCLI)** — Command-line interface for interacting with Nbox. Built with Python.
 - 🌿 **[CeleryHub](https://github.com/DanielD2G/CeleryHub)** — Real-time monitoring, control, and scheduling for Celery clusters. Built with TypeScript, Python, and Docker.
+- 🔒 **[ProxyVPN](https://github.com/DanielD2G/ProxyVPN)** — High-performance VPN proxy multiplexer — consolidates multiple WireGuard VPNs into a single container with per-VPN proxies, load balancing, and REST API. Built with Go.
 
 ## GitHub Activity
 
