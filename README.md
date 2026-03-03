@@ -24,6 +24,7 @@
 - 📦 **[NboxCLI](https://github.com/DanielD2G/NboxCLI)** — Command-line interface for interacting with Nbox. Built with Python.
 - 🌿 **[CeleryHub](https://github.com/DanielD2G/CeleryHub)** — Real-time monitoring, control, and scheduling for Celery clusters. Built with TypeScript, Python, and Docker.
 - 🔒 **[ProxyVPN](https://github.com/DanielD2G/ProxyVPN)** — High-performance VPN proxy multiplexer — consolidates multiple WireGuard VPNs into a single container with per-VPN proxies, load balancing, and REST API. Built with Go.
+- 🌐 **[BrowserGrid](https://github.com/DanielD2G/BrowserGrid)** — Multi-browser automation grid with anti-detection fingerprinting, live view, and per-session download retrieval. Built with Python.
 
 ## GitHub Activity
 
