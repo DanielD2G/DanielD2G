@@ -19,6 +19,7 @@
 
 ## Projects
 
+- 🤖 **[ClawBuddy](https://github.com/DanielD2G/ClawBuddy)** — Self-hosted, privacy-first AI agent platform with sandboxed tool execution, document RAG, browser automation, and Google Workspace integration. Built with TypeScript, React, Hono, and Docker.
 - 📡 **[ActionsHub](https://github.com/DanielD2G/ActionsHub)** — Real-time dashboard for monitoring GitHub Actions workflows. Built with TypeScript, Astro, Preact, and Tailwind CSS. ([actions-hub.dev](https://actions-hub.dev))
 - ⌨️ **[BuddyTypeCLI](https://github.com/DanielD2G/BuddyTypeCLI)** — Typing speed test in the terminal, inspired by MonkeyType. Built with Rust.
 - 📦 **[NboxCLI](https://github.com/DanielD2G/NboxCLI)** — Command-line interface for interacting with Nbox. Built with Python.
